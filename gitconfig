@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nicoulaz.oscar@hotmail.com
+	name = Oscar Nicoulaz
